@@ -102,7 +102,7 @@
             }
             .small_container {
                 width: 98%;
-                height: 79vh;
+                height: 75vh;
                 background-color: hsl(244, 38%, 16%);
                 /* border: hsl(244, 38%, 16%); */
                 border-radius: 0px 0px 6px 6px;
@@ -117,9 +117,9 @@
             .text h1 {
                 color: hsl(0, 0%, 100%);
                 /* margin-left: 1rem; */
-                width: 79%;
+                width: 65%;
                 margin-top: 3rem;
-                margin-left: 2rem;
+                margin-left: 3rem;
                 font-size: 25px;
                 text-align: center;
             }
@@ -133,21 +133,22 @@
             }
             .text p {
                 color: hsla(0, 0%, 100%, 0.75);
-                font-size: 13px;
-                width: 68%;
+                font-size: 15px;
+                width: 75%;
                 text-align: center;
                 /* text-align: center; */
-                margin-left: 3.3rem;
+                margin-left: 2.4rem;
+                line-height: 20px;
             }
             .sub_numbers .h2 {
                 color: white;
-                font-size: 23px;
+                font-size: 25px;
                 font-weight: bold;
                 padding-top: 1rem;
             }
             .sub_numbers .h6 {
                 color: hsla(0, 0%, 100%, 0.6);
-                font-size: 12px;
+                font-size: 15px;
                 padding-top: 0.3rem;
             }
         }
